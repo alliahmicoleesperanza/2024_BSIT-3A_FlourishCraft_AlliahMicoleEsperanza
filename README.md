@@ -1,4 +1,4 @@
-Flourish Craft 
+Flourish Craft - BSIT 3A
 
 Group Members:
 
