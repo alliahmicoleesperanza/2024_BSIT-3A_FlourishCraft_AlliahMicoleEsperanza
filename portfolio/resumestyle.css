@@ -95,6 +95,10 @@ main.main-content {
     padding-bottom: 0rem;
     font-weight: 500; 
 }
+.contact-info a {
+    color: white;
+    text-decoration: none;
+}
 .contact-info ul {
     list-style-type: none;
 }
