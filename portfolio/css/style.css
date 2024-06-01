@@ -454,7 +454,6 @@ form textarea {
   letter-spacing: 1px;
   font-size: 1rem;
   color: #002333;
-  
   text-transform: uppercase;
 }
 .tl-title-2 {
@@ -527,7 +526,6 @@ form textarea {
   opacity: 0; 
   animation: fadeIn 2s ease-out forwards; 
 }
-
 header, .navbar li a, .social a i, .home-img, .home-text, .about-container, .info-box, .about-img img, .services-box, .portfolio-img, .contact-form {
   transition: all 0.1s ease-in-out;
 }
